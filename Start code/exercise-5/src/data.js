@@ -1,8 +1,8 @@
 /* Your data here */
-import pic1 from './assets/1.png';
-import pic2 from './assets/2.png';
-import pic3 from './assets/3.png';
-import pic4 from './assets/4.png';
+import pic1 from '../html-sample-code/assets/1.png';
+import pic2 from '../html-sample-code/assets/2.png';
+import pic3 from '../html-sample-code/assets/3.png';
+import pic4 from '../html-sample-code/assets/4.png';
 
 export const All_Staff = [
     {

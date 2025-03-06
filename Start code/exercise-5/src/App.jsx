@@ -1,13 +1,12 @@
 import React from "react";
 import { All_Staff } from "./data";
-import Staff from "./components/staff";
+import Staff from "./components/Staff";
 
 function App() {
   return (
     <>
       <header>
-        <h1>Our Staff</h1>
-        <p>Meet the team</p>
+        <h1>This is our Staff.</h1>
       </header>
       <main className="cards-view">
         <div className="cards-grid">
